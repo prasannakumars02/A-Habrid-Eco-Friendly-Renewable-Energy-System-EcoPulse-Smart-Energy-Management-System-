@@ -1,11 +1,5 @@
 *.pyc
 __pycache__/
-.venv/
-.venv_old/
-project/.venv/
-project/.venv_old/
-project/project/.venv/
-project/project/.venv_old/
 backend/.venv/
 frontend/.venv/
 .streamlit/secrets.toml
