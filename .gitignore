@@ -1,0 +1,11 @@
+*.pyc
+__pycache__/
+.venv/
+.venv_old/
+project/.venv/
+project/.venv_old/
+project/project/.venv/
+project/project/.venv_old/
+.streamlit/secrets.toml
+project/project/frontend/.streamlit/secrets.toml
+node_modules/
