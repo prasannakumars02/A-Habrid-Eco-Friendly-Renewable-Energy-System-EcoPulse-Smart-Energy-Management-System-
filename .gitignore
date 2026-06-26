@@ -6,6 +6,9 @@ project/.venv/
 project/.venv_old/
 project/project/.venv/
 project/project/.venv_old/
+backend/.venv/
+frontend/.venv/
 .streamlit/secrets.toml
-project/project/frontend/.streamlit/secrets.toml
-node_modules/
+frontend/.streamlit/secrets.toml
+backend/node_modules/
+frontend/node_modules/
